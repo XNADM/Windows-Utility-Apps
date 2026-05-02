@@ -1,5 +1,14 @@
 Notes Manager
 
+
+## Security Notice
+
+These apps are not digitally signed yet, so Windows SmartScreen may show a warning.
+
+Please read [SECURITY.md](../SECURITY.md) for more details.
+
+
+
 Notes Manager is a simple app for writing and managing notes in one place.
 You can add notes, edit them, delete them, search for notes, and filter them easily.
 It is useful for daily ideas, tasks, reminders, study notes, or any quick information you want to keep.
