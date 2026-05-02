@@ -6,7 +6,7 @@
 
 These apps are not digitally signed yet, so Windows SmartScreen may show a warning.
 
-Please read [SECURITY.md](SECURITY.md) for more details.
+Please read [SECURITY.md](../SECURITY.md) for more details.
 
 
 
