@@ -2,6 +2,14 @@
 
 
 
+## Security Notice
+
+These apps are not digitally signed yet, so Windows SmartScreen may show a warning.
+
+Please read [SECURITY.md](SECURITY.md) for more details.
+
+
+
 Disk Space Analyzer is a simple Windows desktop application built with C# Windows Forms.  
 
 It helps users scan folders, understand what is taking storage space, find large files, review large folders, and export a clear storage report.
